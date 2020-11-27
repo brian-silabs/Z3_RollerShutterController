@@ -1,5 +1,11 @@
+---
+sort: 1
+---
+ 
 # Z3_RollerShutterController
 Zigbee 3.0 Stabdard implementation of a battery powered roller shutter controller
+ 
+{​​​​% include list.liquid all=true %}
 
 ## Documentation ##
 
